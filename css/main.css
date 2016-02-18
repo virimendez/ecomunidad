@@ -1,0 +1,196 @@
+.logo{
+	width: 70%;
+} 
+
+li{
+	display: inline-block;
+	margin-top: 40px;
+	margin-left: 10px;
+}
+a{
+	color: black;
+	text-decoration: none;
+}
+* {
+	font-family: OpenSans-Light;
+}
+hr{
+	height: 19px;
+	width: 1px;
+	margin-left: 30px;
+	margin-right: 20px;
+	display: inline;
+	color: black;
+	margin-top: 30px;
+}
+#background{
+	width: 100%;
+	position: absolute; 
+	z-index: -1;   
+}
+.foto{
+	width: 100%;
+}
+.semilla {
+	height: 700px;
+}
+.semilla1 {
+	height: 200px;
+	margin-top: 500px;
+}
+.text1{
+	text-align: center;
+	color: #2D2B4A;
+	margin: 570px 100px 160px 100px;
+}
+.primimg{
+	width: 100%;
+	text-align: center;
+}
+.segimg{
+	width: 100%;
+	text-align: center;
+}
+.cuadro2{
+	width: 50%;
+	height: 400px;
+	float: left;
+	z-index: -1; 
+	margin-top: 50px; 
+}
+.cuadroimg{
+	width: 100%;
+	height: 399px;
+}
+.Textder {
+	width: 50%;
+	height: 400px;
+	color: white;
+	padding-top: 12%;
+	margin-left: 580px;
+	text-align: center;
+}
+ h3{
+	margin-top: 30px;
+}
+.Textder p{
+	margin-top: 30px;
+}
+.Serv{
+	margin-top: 100px;
+	text-align: center;
+}
+.Mosa{
+	margin-top: 50px;
+	text-align: center;
+}
+.backverde{
+	margin-top: 50px;
+	width: 100%;
+	height: 750px;
+	background-color: #226922;
+	z-index: -1;
+	color: white;
+}
+.proyectos {
+	margin-top: 30px;
+}
+.proyectos2{
+	width: 100%;
+	height: 300px;
+	display: inline-block;
+}
+.img1{
+	width: 100%;
+	height: 300px;
+}
+.img2{
+	width: 100%;
+	height: 300px;
+}
+.nombreproyectos{
+	text-align: center;
+
+}
+.chicas{
+	margin-top: 50px;
+	text-align: center;
+	color: #2C2C2C;
+}
+.fchicas{
+	width: 250px;
+	height: 250px;
+	border-radius: 100%;
+	margin-bottom: 30px;
+}
+.abajo{
+	margin-top: 150px;
+	color: #2C4A2C;
+}
+.icono{
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+	margin: 5px 10px 60px 10px;
+}
+.mar{
+	text-align: center;
+}
+.imgblog{
+	width: 80%;
+}
+.lok{
+	color: #080D08;
+}
+.lokm{
+	margin-top: 50px;
+}
+.lok2{
+	text-align: center;
+}
+.final{
+	margin-bottom: 50px;
+}
+.slider1{
+	position: absolute;
+	margin-top: 190px;	
+	margin-left: 80px;
+}
+
+.slinder2{
+	margin-left: 90%;
+}
+table{
+	border: 2px solid gray;
+    border-collapse: collapse;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	width: 100%;
+}
+td{
+	width: 25%;
+	padding: 20px;
+	border-right: 2px solid gray;
+}
+.tabla{
+	width: 50px;
+	height: 50px;
+	margin-top: 90px;
+	float: right;
+}
+footer{
+	background-color:;
+	width: 100%;
+	height: 100px;
+	margin-top: 1450px;
+	padding-bottom: 30px;
+}
+.textopie{
+	color: orange;
+}
+.textpeni{
+	padding-top:50px;
+}
+.piee{
+	text-align: right;
+}
